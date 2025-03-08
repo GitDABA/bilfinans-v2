@@ -1,0 +1,48 @@
+/* VWAGTheSans Font Family */
+@font-face {
+  font-family: 'VWAGTheSans';
+  src: url('/fonts/VWAGTheSans-Regular.eot');
+  src: url('/fonts/VWAGTheSans-Regular.eot?#iefix') format('embedded-opentype'),
+       url('/fonts/VWAGTheSans-Regular.woff2') format('woff2'),
+       url('/fonts/VWAGTheSans-Regular.woff') format('woff'),
+       url('/fonts/VWAGTheSans-Regular.svg#VWAGTheSans-Regular') format('svg');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'VWAGTheSans';
+  src: url('/fonts/VWAGTheSans-Bold.eot');
+  src: url('/fonts/VWAGTheSans-Bold.eot?#iefix') format('embedded-opentype'),
+       url('/fonts/VWAGTheSans-Bold.woff2') format('woff2'),
+       url('/fonts/VWAGTheSans-Bold.woff') format('woff'),
+       url('/fonts/VWAGTheSans-Bold.svg#VWAGTheSans-Bold') format('svg');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'VWAGTheSans';
+  src: url('/fonts/VWAGTheSans-Light.eot');
+  src: url('/fonts/VWAGTheSans-Light.eot?#iefix') format('embedded-opentype'),
+       url('/fonts/VWAGTheSans-Light.woff2') format('woff2'),
+       url('/fonts/VWAGTheSans-Light.woff') format('woff'),
+       url('/fonts/VWAGTheSans-Light.svg#VWAGTheSans-Light') format('svg');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'VWAGTheSans';
+  src: url('/fonts/VWAGTheSans-Italic.eot');
+  src: url('/fonts/VWAGTheSans-Italic.eot?#iefix') format('embedded-opentype'),
+       url('/fonts/VWAGTheSans-Italic.woff2') format('woff2'),
+       url('/fonts/VWAGTheSans-Italic.woff') format('woff'),
+       url('/fonts/VWAGTheSans-Italic.svg#VWAGTheSans-Italic') format('svg');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
